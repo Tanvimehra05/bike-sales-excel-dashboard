@@ -8,15 +8,15 @@ An interactive Excel dashboard analyzing motorbike purchase behaviour across 1,0
 
 | Overview | Gender |
 |---|---|
-| ![Overview](bikes_overview.png) | ![Gender](bikes_gender.png) |
+| ![Overview](Bike_sales_dashboard.png) | ![Gender](bike_sales_genderwise.png) |
 
 | Income | Region |
 |---|---|
-| ![Income](bikes_income.png) | ![Region](bikes_region.png) |
+| ![Income](bike_sales_incomewise.png) | ![Region](bikes_sales_regionwise.png) |
 
 | Marital |
 |---|
-| ![Marital](bikes_marital.png) |
+| ![Marital](bike_sales_martialstatus.png) |
 
 ---
 
