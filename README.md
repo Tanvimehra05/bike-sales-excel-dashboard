@@ -6,8 +6,6 @@ An interactive Excel dashboard analyzing motorbike purchase behaviour across 1,0
 
 ## 🖼️ Preview
 
-## 🖼️ Preview
-
 | Gender | Income |
 |---|---|
 | ![Gender](bike_sales_genderwise.png) | ![Income](bike_sales_incomewise.png) |
